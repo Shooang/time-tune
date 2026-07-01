@@ -6,7 +6,7 @@
 
 > TRAE IDE 大赛参赛作品 | 专为银发族设计的声音疗愈产品
 
-[![在线体验](https://img.shields.io/badge/▶_在线体验-Time_Tune-8b0000?style=for-the-badge)]()
+[![在线体验](https://img.shields.io/badge/▶_在线体验-Time_Tune-8b0000?style=for-the-badge)](https://prototype-five-coral.vercel.app)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square)]()
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square)]()
@@ -25,7 +25,7 @@
 
 ## ▶ 立即体验
 
-**👉 点击上方 Badge 或访问：[将部署后的 Vercel 链接粘贴到这里]**
+**👉 点击上方 Badge 或访问：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)**
 
 - 📱 建议用手机浏览器打开（已做移动端适配）
 - 🔊 请确保手机未静音
