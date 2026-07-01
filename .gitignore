@@ -1,0 +1,6 @@
+# 方案A：GitHub只展示README，源码和音频通过Vercel CLI直接部署
+# 忽略所有文件
+*
+# 但保留以下文件到GitHub
+!.gitignore
+!README.md
