@@ -1,6 +1,11 @@
-# 方案A：GitHub只展示README，源码和音频通过Vercel CLI直接部署
+# 方案B：GitHub展示README与项目信息
+# 出于参与 TRAE AI 创造力大赛原因公开项目文档
+# 源码、核心音频资产、构建配置等不公开
+# Vercel 在线 Demo 独立部署，不依赖本仓库
+
 # 忽略所有文件
 *
+
 # 但保留以下文件到GitHub
 !.gitignore
 !README.md
