@@ -6,7 +6,8 @@
 
 > TRAE IDE 大赛参赛作品 | 专为银发族设计的声音疗愈产品
 
-[![在线体验](https://img.shields.io/badge/▶_在线体验-Time_Tune-8b0000?style=for-the-badge)](https://prototype-five-coral.vercel.app)
+[![在线体验-国内](https://img.shields.io/badge/▶_国内访问-腾讯云COS-0066cc?style=for-the-badge)](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
+[![在线体验-海外](https://img.shields.io/badge/▶_海外访问-Vercel-8b0000?style=for-the-badge)](https://prototype-five-coral.vercel.app)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square)]()
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square)]()
@@ -25,7 +26,9 @@
 
 ## ▶ 立即体验
 
-**👉 点击上方 Badge 或访问：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)**
+**🌐 国内访问（推荐）**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
+
+**🌍 海外访问**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
 
 - 📱 建议用手机浏览器打开（已做移动端适配）
 - 🔊 请确保手机未静音
@@ -95,7 +98,7 @@ Demo 仅展示核心交互体验，完整产品规划如下：
 | 音频引擎 | Web Audio API（6层噪音实时合成+滤波+增益包络+速度敏感调谐）|
 | 音频内容（Demo） | 预生成 M4A 音频（144条月度新闻+年代歌曲+背景BGM） |
 | 音频内容（生产）| 云端 TTS 实时合成 + AI 广播稿生成 + 智能年代内容匹配 |
-| 部署 | Vercel 静态托管 |
+| 部署 | Vercel（海外） + 腾讯云COS（国内CDN） |
 
 ---
 
