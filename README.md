@@ -27,7 +27,8 @@
 ## ▶ 立即体验
 
 **🌍 海外魔法访问（推荐）**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
-**🌐 国内备用访问**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
+
+**🌐 国内备用访问（仅支持电脑端）**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
 
 - 📱 建议海外用手机浏览器打开，国内用电脑打开
 - 🔊 请确保手机未静音
