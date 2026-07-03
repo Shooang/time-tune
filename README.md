@@ -26,11 +26,10 @@
 
 ## ▶ 立即体验
 
-**🌐 国内访问**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
+**🌍 海外魔法访问（推荐）**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
+**🌐 国内备用访问**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
 
-**🌍 海外访问（推荐）**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
-
-- 📱 建议用手机浏览器打开（已做移动端适配）
+- 📱 建议海外用手机浏览器打开，国内用电脑打开
 - 🔊 请确保手机未静音
 - 👆 首次打开点击「点击开始收听」按钮（iOS 音频自动播放限制）
 - 🎛 拖动/滑动频率旋钮切换年代
