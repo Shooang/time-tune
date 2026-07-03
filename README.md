@@ -26,9 +26,9 @@
 
 ## ▶ 立即体验
 
-**🌐 国内访问（推荐）**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
+**🌐 国内访问**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
 
-**🌍 海外访问**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
+**🌍 海外访问（推荐）**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
 
 - 📱 建议用手机浏览器打开（已做移动端适配）
 - 🔊 请确保手机未静音
