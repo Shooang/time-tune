@@ -8,6 +8,7 @@
 
 [![在线体验-海外](https://img.shields.io/badge/▶_海外访问-Vercel-8b0000?style=for-the-badge)](https://prototype-five-coral.vercel.app)
 [![在线体验-国内](https://img.shields.io/badge/▶_国内访问-腾讯云COS-0066cc?style=for-the-badge)](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
+[![作品介绍帖](https://img.shields.io/badge/📝_作品介绍帖-TRAE社区-ff5722?style=for-the-badge)](https://forum.trae.cn/t/topic/70957)
 [![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square)]()
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square)]()
