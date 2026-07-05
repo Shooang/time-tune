@@ -19,6 +19,7 @@ import json
 from pathlib import Path
 from typing import Dict, List, Optional, Any
 
+# 注意：docs/content/ 为内容数据库，未开源，需自行准备
 CONTENT_DIR = Path(__file__).parent.parent / "docs" / "content"
 SENSITIVE_WORDS_PATH = CONTENT_DIR / "sensitive" / "sensitive-words.json"
 
