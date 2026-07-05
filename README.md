@@ -33,8 +33,6 @@
 
 **🌍 海外访问**：[https://prototype-five-coral.vercel.app](https://prototype-five-coral.vercel.app)
 
-**🌐 国内访问（电脑端推荐）**：[https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html](https://time-tune-1256733818.cos.ap-guangzhou.myqcloud.com/index.html)
-
 - 📱 建议用手机浏览器打开（已做移动端适配），国内链接建议电脑端访问
 - 🔊 请确保手机未静音
 - 👆 首次打开点击「点击开始收听」按钮（iOS 音频自动播放限制）
