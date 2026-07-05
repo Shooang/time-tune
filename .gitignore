@@ -1,11 +1,52 @@
-# 方案B：GitHub展示README与项目信息
-# 出于参与 TRAE AI 创造力大赛原因公开项目文档
-# 源码、核心音频资产、构建配置等不公开
-# Vercel 在线 Demo 独立部署，不依赖本仓库
+# 依赖
+node_modules/
 
-# 忽略所有文件
-*
+# 构建产物
+dist/
+build/
 
-# 但保留以下文件到GitHub
-!.gitignore
-!README.md
+# Next.js（未使用但历史残留）
+.next/
+
+# 部署配置
+.vercel/
+.vercel-local/
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 音频内容（约500MB，体积过大不适合 Git，使用 scripts/ 中的脚本生成）
+public/audio/
+
+# 截图与压缩包
+public/screenshots/
+*.zip
+time-tune-dist.zip
+
+# 系统文件
+.DS_Store
+*.swp
+*.swo
+*~
+*.tmp
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# 日志
+*.log
+logs/
+
+# TRAE IDE 内部文件
+.trae/

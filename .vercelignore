@@ -1,0 +1,11 @@
+# Vercel部署忽略文件（不影响GitHub）
+node_modules
+dist
+.DS_Store
+*.log
+.env
+.env.local
+.vite
+.git
+.gitignore
+.vercel
