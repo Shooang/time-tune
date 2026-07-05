@@ -8,7 +8,7 @@
 
 [![在线体验](https://img.shields.io/badge/▶-在线体验（需魔法）-8b0000?style=for-the-badge)](https://prototype-five-coral.vercel.app)
 [![作品介绍帖](https://img.shields.io/badge/📝_作品介绍帖-TRAE社区-ff5722?style=for-the-badge)](https://forum.trae.cn/t/topic/70957)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-PolyForm_NC-orange?style=flat-square)](LICENSE)
 [![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square)]()
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?style=flat-square)]()
@@ -158,10 +158,10 @@ Web Audio API 实时混音：
 
 ## 📜 开源说明
 
-- 本项目采用 [MIT License](LICENSE) 开源
-- 本项目开源代码仅供个人学习、研究及非商业用途使用。未经授权，不得将本项目直接作为商业产品上线运营。如需商业合作或授权，请联系微信：Tishvang
+- 本项目采用 [PolyForm Noncommercial 1.0.0](LICENSE) 协议开源：允许个人学习、研究、非商业用途自由使用、修改和分享；如需商业使用（包括但不限于直接上线运营、集成进商业产品），需另行获得授权。
+- 如需商业合作或授权，请联系微信：Tishvang
 - 前端交互源码、音频生成脚本、产品设计文档均已公开
-- 音频素材包含原创 TTS 制作内容，仅限演示用途
+- 音频素材包含原创 TTS 制作内容，仅限非商业演示用途
 - 部分年代歌曲来源于公开资料，不得商用
 - 如对技术实现、产品设计或合作感兴趣，欢迎通过 GitHub Issue 交流
 
